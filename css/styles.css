@@ -1,0 +1,86 @@
+body {
+	font-family: arial;
+	color: red;
+	margin: 0;
+}
+
+header {
+	background: beige;
+	color: blue;
+	text-align: center;
+	background: url(../images/background.jpg); 
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+a {
+	color: #2DEB69;
+}
+
+#about {
+		background: gold;
+}
+
+img {
+	border: solid 3px black;
+}
+
+header img {
+	border: 10px orange dashed;
+	padding: 20 px;
+}
+
+h1 {
+	font-family: 60 px;
+	color: magenta;
+	margin: 20px
+}
+
+.links h2 {
+	color: purple
+
+.padded {
+	padding: 20x;
+}	
+.contact {
+	text-align: center;
+	background: url(..images/dark_embroidery;png); 
+}
+
+.contact h2 {
+	color: #ffffff;
+}
+
+.contact img {
+	border: none;
+	width: 100px;
+	height: auto;
+	margin: 10px;
+	border-radius 50%: 
+}
+
+.contact img:hover {
+	opacity: .8;
+	border-radius: 40%
+}
+
+
+.websites {
+	padding: 0;
+}
+
+.websites li {
+	list-style: none;
+	display:inline-block;
+}
+
+.websites a {
+	background: blue;
+	color: white;
+	text-decoration: none;
+	padding: 10px 20px;
+
+
+h1, h2 {
+font-family: 'Lobster Two', cursive
+}
